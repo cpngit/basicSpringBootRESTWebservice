@@ -1,4 +1,4 @@
-package com.cpn.spring.rest.webservice.basicSpringBootRESTWebservice;
+package com.cpn.spring.rest.webservice.basicSpringBootRESTWebservice.helloworld;
 
 public class HelloWordBean {
     public String getMessage() {
