@@ -11,6 +11,9 @@ public class User {
         return id;
     }
 
+    protected User(){
+    }
+
     public User(Integer id, String name, Date birthDate) {
         super();
         this.id = id;
