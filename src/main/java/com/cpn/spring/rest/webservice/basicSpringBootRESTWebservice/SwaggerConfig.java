@@ -27,6 +27,7 @@ public class SwaggerConfig {
                .produces(DEFAULT_PRODUCES_AND_CONSUMES).consumes(DEFAULT_PRODUCES_AND_CONSUMES);
    }
 
+
     @Primary
     @Bean
     public LinkDiscoverers discoverers() {
